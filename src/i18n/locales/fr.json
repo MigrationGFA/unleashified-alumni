@@ -1,0 +1,211 @@
+{
+  "Common": {
+    "backToHome": "Retour à l'accueil",
+    "brandName": "Unleashified",
+    "brandSuffix": "Plateforme Alumni"
+  },
+  "Navbar": {
+    "market": "Marché",
+    "events": "Événements",
+    "about": "À Propos",
+    "contact": "Contact",
+    "login": "Se Connecter",
+    "join": "Rejoindre une Communauté",
+    "dashboard": "Tableau de bord"
+  },
+  "Hero": {
+    "imageAlt": "Anciens élèves réseautant lors d'un événement professionnel",
+    "badgeText": "Une plateforme pour chaque communauté d'anciens élèves",
+    "headlineMain": "Restez Connectés.",
+    "headlineSub": "Grandissons Ensemble.",
+    "description": "Réunissez diplômés, entrepreneurs et professionnels sur une seule plateforme — l'image de votre communauté, vos membres, un code partagé.",
+    "getStarted": "Commencer Gratuitement",
+    "featureFree": "Inscription Gratuite",
+    "featureIndustries": "Secteurs Divers",
+    "featureNetwork": "Réseau Mondial"
+  },
+  "CommunityHero": {
+    "headlineMain": "Connecter.",
+    "headlineSub1": "Partager.",
+    "headlineSub2": "Participer.",
+    "description": "Rejoignez les conversations, assistez aux événements et grandissez ensemble grâce à des discussions engageantes, des activités communautaires et des connexions réelles.",
+    "marketplaceTitle": "Marché",
+    "marketplaceDesc": "Connectez-vous, partagez et grandissez avec les membres de votre communauté",
+    "eventsTitle": "Événements",
+    "eventsDesc": "Découvrez et rejoignez les événements à venir."
+  },
+  "Everything": {
+    "headingMain": "Tout ce dont vous avez besoin pour",
+    "headingGradient": "réussir ensemble",
+    "description": "Des outils et fonctionnalités puissants conçus pour amplifier votre parcours professionnel",
+    "networkTitle": "Réseau",
+    "networkDesc": "Connectez-vous avec d'autres anciens élèves de tous secteurs",
+    "marketplaceTitle": "Marché",
+    "marketplaceDesc": "Achetez, vendez et construisez des partenariats dans votre communauté",
+    "eventsTitle": "Événements",
+    "eventsDesc": "Participez à des événements et ateliers exclusifs",
+    "learningTitle": "Ressources",
+    "learningDesc": "Accédez à des guides, modèles et supports de formation"
+  },
+  "Professional": {
+    "network": {
+      "title": "Développez Votre Réseau Professionnel",
+      "desc": "Connectez-vous avec des anciens vérifiés de divers secteurs dans le monde. Filtrez par secteur, lieu et compétences pour trouver les relations idéales pour vos objectifs de carrière.",
+      "item1": "Filtres de recherche avancés",
+      "item2": "Messagerie directe",
+      "item3": "Discussions de groupe",
+      "item4": "Partage de ressources"
+    },
+    "growth": {
+      "title": "Apprendre et Grandir Ensemble",
+      "desc": "Accédez à des masterclasses exclusives, des cours structurés et des programmes de mentorat. Montez en compétences avec du contenu créé par des experts et des anciens.",
+      "item1": "Masterclasses vidéo",
+      "item2": "Mentorat individuel",
+      "item3": "Ateliers interactifs",
+      "item4": "Programmes de certification"
+    },
+    "opportunities": {
+      "title": "Découvrez des Opportunités",
+      "desc": "Explorez le marché de la communauté pour acheter, vendre et établir des partenariats. Présentez vos produits et services à une communauté de confiance.",
+      "item1": "Liste de produits",
+      "item2": "Marché de services",
+      "item3": "Opportunités de partenariat",
+      "item4": "Transactions sécurisées"
+    }
+  },
+  "BuildTogether": {
+    "titleMain": "Bâtir ensemble,",
+    "titleStronger": "devenir plus fort",
+    "description": "Institutions, organisations et communautés d'anciens élèves lancent chacune leur propre espace de marque sur Unleashified — membres vérifiés, opportunités sélectionnées et partenariats stratégiques.",
+    "stat1Text": "Membres Vérifiés",
+    "stat1Val": "100%",
+    "stat2Text": "Contrôle d'Accès",
+    "stat2Val": "Sur Invitation",
+    "stat3Text": "Partage d'Opportunités",
+    "stat3Val": "Direct P2P",
+    "stat4Text": "Architecture",
+    "stat4Val": "Multi-Communautés",
+    "foundingTitle": "Programme des Communautés Fondatrices",
+    "foundingDescription": "Nous acceptons actuellement un nombre limité de communautés pionnières sur la plateforme. Lancez votre espace alumni à votre image, intégrez vos membres et façonnez l'avenir d'Unleashified.",
+    "foundingCTA": "Demander un Accès Anticipé"
+  },
+  "JoinToday": {
+    "badgeText": "Inscrivez-vous aujourd'hui - C'est gratuit",
+    "headlineMain": "Prêt à libérer votre ",
+    "headlineSub": "plein potentiel ?",
+    "description": "Rejoignez des communautés d'anciens élèves vérifiées qui réseautent, collaborent et grandissent ensemble sur Unleashified.",
+    "getStarted": "Commencer Gratuitement",
+    "featureFree": "Approuvé par des professionnels",
+    "featureIndustries": "Sécurisé et Privé",
+    "featureNetwork": "Aucune carte de crédit requise"
+  },
+  "SupportCTA": {
+    "title": "Des questions ? Nous sommes là pour vous aider",
+    "description": "Que vous soyez administrateur d'une communauté ou membre, notre équipe est là pour vous aider. Contactez-nous directement à {email} ou envoyez-nous un message — nous vous répondrons rapidement.",
+    "button": "Support"
+  },
+  "Footer": {
+    "brandName": "Unleashified",
+    "tagline": "Soutenir les diplômés, entrepreneurs et professionnels grâce au réseautage, au mentorat et aux opportunités — une plateforme pour chaque communauté d'anciens élèves.",
+    "disclaimer": "Unleashified est une plateforme multi-locataires pour communautés d'anciens élèves. Chaque organisation exploite son propre espace de marque et l'adhésion est gérée par ses administrateurs.",
+    "copyright": "© {year} Unleashified Alumni Platform. Tous droits réservés.",
+    "email": "hello@unleashified.io",
+    "product": {
+      "title": "Produit",
+      "features": "Fonctionnalités",
+      "marketplace": "Marché",
+      "mentorship": "Mentorat",
+      "learning": "Apprentissage",
+      "pricing": "Tarification"
+    },
+    "company": {
+      "title": "Entreprise",
+      "aboutUs": "À Propos",
+      "careers": "Carrières",
+      "blog": "Blog",
+      "pressKit": "Dossier de Presse",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Légal",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfService": "Conditions d'Utilisation",
+      "cookiePolicy": "Politique de Cookies",
+      "gdpr": "RGPD",
+      "accessibility": "Accessibilité"
+    }
+  },
+  "Login": {
+    "title": "Connexion",
+    "subtitle": "Accédez à votre espace avec vos identifiants fournis.",
+    "email": "Adresse email",
+    "emailPlaceholder": "vous@organisation.org",
+    "password": "Mot de passe",
+    "loginButton": "Se connecter",
+    "forgotPassword": "Mot de passe oublié ?",
+    "inviteOnly": "Cette plateforme est sur invitation uniquement. Contactez votre administrateur si vous avez besoin d'un accès."
+  },
+  "Nav": {
+    "sections": {
+      "community": "Communauté",
+      "support": "Assistance",
+      "administration": "Administration",
+      "platform": "Plateforme"
+    },
+    "items": {
+      "dashboard": "Tableau de bord",
+      "newsfeed": "Fil d'actualités",
+      "network": "Réseau",
+      "messaging": "Messagerie",
+      "marketplace": "Marché",
+      "events": "Événements",
+      "groups": "Groupes",
+      "dealRoom": "Deal Room",
+      "resources": "Ressources",
+      "helpSupport": "Aide et assistance",
+      "settings": "Paramètres",
+      "overview": "Vue d'ensemble",
+      "members": "Membres",
+      "contentEngagement": "Contenu et engagement",
+      "dealRooms": "Deal Rooms",
+      "supportInbox": "Boîte d'assistance",
+      "orgSettings": "Paramètres de l'organisation",
+      "organizations": "Organisations",
+      "analytics": "Statistiques",
+      "securityLogs": "Journaux de sécurité",
+      "platformSettings": "Paramètres de la plateforme"
+    },
+    "mobile": {
+      "home": "Accueil",
+      "feed": "Fil",
+      "network": "Réseau",
+      "chats": "Discussions",
+      "events": "Événements",
+      "market": "Marché",
+      "overview": "Vue d'ensemble",
+      "members": "Membres",
+      "content": "Contenu",
+      "support": "Assistance",
+      "org": "Organisation",
+      "orgs": "Organisations",
+      "analytics": "Stats",
+      "security": "Sécurité",
+      "settings": "Réglages"
+    },
+    "sidebar": {
+      "platformBrand": "Plateforme Unleashified",
+      "superAdminConsole": "Console Super Admin",
+      "communityFallback": "Communauté",
+      "signOut": "Se déconnecter"
+    },
+    "menu": {
+      "viewProfile": "Voir le profil",
+      "signedOut": "Vous êtes déconnecté."
+    },
+    "roles": {
+      "superadmin": "Super Admin",
+      "admin": "Administrateur",
+      "member": "Membre"
+    }
+  }
+}

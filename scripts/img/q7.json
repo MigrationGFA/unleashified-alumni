@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "young entrepreneurs collaborating at startup workspace"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "young entrepreneurs collaborating at startup workspace",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9d7b4df64e18.jpg",
+      "caption": "",
+      "source": "Unsplash",
+      "original_width": "3000px",
+      "original_height": "1688px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0f521a6a6c6e.jpeg",
+      "caption": "",
+      "source": "LearningMole",
+      "original_width": "1216px",
+      "original_height": "832px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b2b217f6863c.jpg",
+      "caption": "",
+      "source": "Workbar",
+      "original_width": "5366px",
+      "original_height": "3577px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/80e33512ef08.jpg",
+      "caption": "",
+      "source": "Unsplash",
+      "original_width": "3000px",
+      "original_height": "2000px"
+    }
+  ]
+}

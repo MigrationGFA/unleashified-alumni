@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "university alumni reunion celebration event"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "university alumni reunion celebration event",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6957d4db5537.jpg",
+      "caption": "",
+      "source": "Alfred State",
+      "original_width": "3200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0e88a09a0650.jpg",
+      "caption": "",
+      "source": "Pace University",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aea2294d4b91.png",
+      "caption": "",
+      "source": "Cloud County Community College Foundation",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fd0ca13e0b54.jpg",
+      "caption": "",
+      "source": "Issuu",
+      "original_width": "1164px",
+      "original_height": "1490px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5c2f27584f36.jpg",
+      "caption": "",
+      "source": "The Columns - Washington and Lee University",
+      "original_width": "1038px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2bc562b34385.jpeg",
+      "caption": "",
+      "source": "GiveCampus",
+      "original_width": "1800px",
+      "original_height": "1200px"
+    }
+  ]
+}

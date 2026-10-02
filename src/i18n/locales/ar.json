@@ -1,0 +1,211 @@
+{
+  "Common": {
+    "backToHome": "العودة إلى الصفحة الرئيسية",
+    "brandName": "Unleashified",
+    "brandSuffix": "منصة الخريجين"
+  },
+  "Navbar": {
+    "market": "السوق",
+    "events": "الفعاليات",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "login": "تسجيل الدخول",
+    "join": "انضم إلى مجتمع",
+    "dashboard": "لوحة التحكم"
+  },
+  "Hero": {
+    "imageAlt": "تواصل الخريجين في حدث مهني",
+    "badgeText": "منصة واحدة لكل مجتمعات الخريجين",
+    "headlineMain": "ابق على تواصل.",
+    "headlineSub": "لنتطور معًا.",
+    "description": "اجمع الخريجين ورواد الأعمال والمهنيين على منصة واحدة — هوية مجتمعك، وأعضاؤك، وشيفرة برمجية واحدة مشتركة.",
+    "getStarted": "ابدأ مجانًا",
+    "featureFree": "الانضمام مجاني",
+    "featureIndustries": "قطاعات متنوعة",
+    "featureNetwork": "شبكة عالمية"
+  },
+  "CommunityHero": {
+    "headlineMain": "تواصل.",
+    "headlineSub1": "شارك.",
+    "headlineSub2": "شارك بالأنشطة.",
+    "description": "انضم إلى المحادثات، واحضر الفعاليات وانمُ معًا من خلال مناقشات تفاعلية وأنشطة مجتمعية وروابط حقيقية.",
+    "marketplaceTitle": "السوق",
+    "marketplaceDesc": "تواصل وشارك وانمُ مع أعضاء مجتمعك",
+    "eventsTitle": "الفعاليات",
+    "eventsDesc": "اكتشف وانضم إلى الفعاليات القادمة."
+  },
+  "Everything": {
+    "headingMain": "كل ما تحتاجه لـ",
+    "headingGradient": "النجاح معًا",
+    "description": "أدوات وميزات قوية مصممة لتعزيز رحلتك المهنية",
+    "networkTitle": "الشبكة",
+    "networkDesc": "تواصل مع زملائك الخريجين عبر مختلف القطاعات",
+    "marketplaceTitle": "السوق",
+    "marketplaceDesc": "اشترِ وبع وقم ببناء شراكات داخل مجتمعك",
+    "eventsTitle": "الفعاليات",
+    "eventsDesc": "شارك في فعاليات وورش عمل حصرية",
+    "learningTitle": "الموارد",
+    "learningDesc": "الوصول إلى الأدلة والقوالب والمواد التدريبية"
+  },
+  "Professional": {
+    "network": {
+      "title": "ابنِ شبكتك المهنية",
+      "desc": "تواصل مع الخريجين المعتمدين عبر مختلف القطاعات حول العالم. ابحث حسب القطاع والموقع والمهارات للعثور على الاتصالات المثالية لأهدافك المهنية.",
+      "item1": "مرشحات بحث متقدمة",
+      "item2": "الرسائل المباشرة",
+      "item3": "مناقشات جماعية",
+      "item4": "مشاركة الموارد"
+    },
+    "growth": {
+      "title": "تواصلوا وانموا معًا",
+      "desc": "احصل على دورات تدريبية حصرية وبرامج توجيهية منظمة. طور مهاراتك بمحتوى أنشأه خبراء الصناعة وزملاؤك الخريجون.",
+      "item1": "دروس فيديو احترافية",
+      "item2": "توجيه فردي مباشر",
+      "item3": "ورش عمل تفاعلية",
+      "item4": "برامج الشهادات"
+    },
+    "opportunities": {
+      "title": "اكتشف الفرص",
+      "desc": "استكشف سوق المجتمع للشراء والبيع والشراكة. اعرض منتجاتك وخدماتك لمجتمع موثوق من المهنيين.",
+      "item1": "إدراج المنتجات",
+      "item2": "سوق الخدمات",
+      "item3": "فرص الشراكة",
+      "item4": "معاملات آمنة"
+    }
+  },
+  "BuildTogether": {
+    "titleMain": "نبني معًا،",
+    "titleStronger": "ننمو أقوى",
+    "description": "المؤسسات والمنظمات ومجتمعات الخريجين تطلق كل منها مساحتها الخاصة بهويتها على Unleashified — أعضاء معتمدون وفرص منتقاة وشراكات استراتيجية.",
+    "stat1Text": "أعضاء معتمدون",
+    "stat1Val": "100%",
+    "stat2Text": "التحكم في الوصول",
+    "stat2Val": "بدعوة فقط",
+    "stat3Text": "مشاركة الفرص",
+    "stat3Val": "مباشر P2P",
+    "stat4Text": "البنية",
+    "stat4Val": "متعدد المجتمعات",
+    "foundingTitle": "برنامج المجتمعات المؤسِّسة",
+    "foundingDescription": "نقبل حاليًا عددًا محدودًا من المجتمعات المبكرة على المنصة. أطلق مساحة الخريجين بهويتك، وأدمج أعضاءك، وساهم في تشكيل مستقبل Unleashified.",
+    "foundingCTA": "التقديم للوصول المبكر"
+  },
+  "JoinToday": {
+    "badgeText": "انضم اليوم - مجانًا",
+    "headlineMain": "جاهز لإطلاق ",
+    "headlineSub": "كامل إمكانياتك؟",
+    "description": "انضم إلى مجتمعات خريجين معتمدة تتواصل وتتعاون وتنمو معًا على Unleashified.",
+    "getStarted": "ابدأ مجانًا",
+    "featureFree": "موثوق من المهنيين",
+    "featureIndustries": "آمن وخاص",
+    "featureNetwork": "لا تتطلب بطاقة ائتمان"
+  },
+  "SupportCTA": {
+    "title": "هل لديك أسئلة؟ نحن هنا للمساعدة",
+    "description": "سواء كنت مسؤول مجتمع أو عضوًا، فريقنا هنا لمساعدتك. اتصل بنا مباشرة على {email} أو أرسل لنا رسالة — سنرد عليك فورًا.",
+    "button": "الدعم"
+  },
+  "Footer": {
+    "brandName": "Unleashified",
+    "tagline": "تمكين الخريجين ورواد الأعمال والمهنيين من خلال التواصل والتوجيه والفرص — منصة واحدة لكل مجتمعات الخريجين.",
+    "disclaimer": "Unleashified هي منصة متعددة المستأجرين لمجتمعات الخريجين. كل منظمة تدير مساحتها الخاصة بهويتها، والعضوية تُدار من قبل مسؤوليها.",
+    "copyright": "© {year} Unleashified Alumni Platform. جميع الحقوق محفوظة.",
+    "email": "hello@unleashified.io",
+    "product": {
+      "title": "المنتج",
+      "features": "الميزات",
+      "marketplace": "السوق",
+      "mentorship": "التوجيه",
+      "learning": "التعلم",
+      "pricing": "الأسعار"
+    },
+    "company": {
+      "title": "الشركة",
+      "aboutUs": "من نحن",
+      "careers": "وظائف",
+      "blog": "المدونة",
+      "pressKit": "الملف الصحفي",
+      "contact": "اتصل"
+    },
+    "legal": {
+      "title": "قانوني",
+      "privacyPolicy": "سياسة الخصوصية",
+      "termsOfService": "شروط الخدمة",
+      "cookiePolicy": "سياسة ملفات الارتباط",
+      "gdpr": "اللائحة العامة لحماية البيانات",
+      "accessibility": "سهولة الوصول"
+    }
+  },
+  "Login": {
+    "title": "تسجيل الدخول",
+    "subtitle": "استخدم بيانات الاعتماد المرسلة إلى بريدك الإلكتروني للوصول إلى حسابك.",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "you@organization.org",
+    "password": "كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "inviteOnly": "هذه المنصة متاحة بالدعوة فقط. اتصل بالمسؤول إذا كنت بحاجة إلى وصول."
+  },
+  "Nav": {
+    "sections": {
+      "community": "المجتمع",
+      "support": "الدعم",
+      "administration": "الإدارة",
+      "platform": "المنصة"
+    },
+    "items": {
+      "dashboard": "لوحة التحكم",
+      "newsfeed": "آخر الأخبار",
+      "network": "الشبكة",
+      "messaging": "الرسائل",
+      "marketplace": "السوق",
+      "events": "الفعاليات",
+      "groups": "المجموعات",
+      "dealRoom": "غرفة الصفقات",
+      "resources": "الموارد",
+      "helpSupport": "المساعدة والدعم",
+      "settings": "الإعدادات",
+      "overview": "نظرة عامة",
+      "members": "الأعضاء",
+      "contentEngagement": "المحتوى والتفاعل",
+      "dealRooms": "غرف الصفقات",
+      "supportInbox": "صندوق الدعم",
+      "orgSettings": "إعدادات المؤسسة",
+      "organizations": "المؤسسات",
+      "analytics": "التحليلات",
+      "securityLogs": "سجلات الأمان",
+      "platformSettings": "إعدادات المنصة"
+    },
+    "mobile": {
+      "home": "الرئيسية",
+      "feed": "الأخبار",
+      "network": "الشبكة",
+      "chats": "المحادثات",
+      "events": "الفعاليات",
+      "market": "السوق",
+      "overview": "نظرة عامة",
+      "members": "الأعضاء",
+      "content": "المحتوى",
+      "support": "الدعم",
+      "org": "المؤسسة",
+      "orgs": "المؤسسات",
+      "analytics": "التحليلات",
+      "security": "الأمان",
+      "settings": "الإعدادات"
+    },
+    "sidebar": {
+      "platformBrand": "منصة Unleashified",
+      "superAdminConsole": "وحدة تحكم المدير العام",
+      "communityFallback": "المجتمع",
+      "signOut": "تسجيل الخروج"
+    },
+    "menu": {
+      "viewProfile": "عرض الملف الشخصي",
+      "signedOut": "تم تسجيل الخروج."
+    },
+    "roles": {
+      "superadmin": "المدير العام",
+      "admin": "مدير",
+      "member": "عضو"
+    }
+  }
+}

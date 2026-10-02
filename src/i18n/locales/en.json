@@ -1,0 +1,211 @@
+{
+  "Common": {
+    "backToHome": "Back to home",
+    "brandName": "Unleashified",
+    "brandSuffix": "Alumni Platform"
+  },
+  "Navbar": {
+    "market": "Marketplace",
+    "events": "Events",
+    "about": "About",
+    "contact": "Contact Us",
+    "login": "Log In",
+    "join": "Join a Community",
+    "dashboard": "Dashboard"
+  },
+  "Hero": {
+    "imageAlt": "Alumni networking and connecting at a professional event",
+    "badgeText": "One platform for every alumni community",
+    "headlineMain": "Stay Connected.",
+    "headlineSub": "Grow Together.",
+    "description": "Bring graduates, entrepreneurs, and professionals together on one platform — your community's branding, your members, one shared codebase.",
+    "getStarted": "Get Started Free",
+    "featureFree": "Free to Join",
+    "featureIndustries": "Diverse Sectors",
+    "featureNetwork": "Global Network"
+  },
+  "CommunityHero": {
+    "headlineMain": "Connect.",
+    "headlineSub1": "Share.",
+    "headlineSub2": "Participate.",
+    "description": "Join conversations, attend events and grow together through engaging discussions, community activities, and real connections.",
+    "marketplaceTitle": "Marketplace",
+    "marketplaceDesc": "Connect, share, and grow with people in your community",
+    "eventsTitle": "Events",
+    "eventsDesc": "Discover and join upcoming events."
+  },
+  "Everything": {
+    "headingMain": "Everything you need to",
+    "headingGradient": "succeed together",
+    "description": "Powerful tools and features designed to amplify your professional journey",
+    "networkTitle": "Network",
+    "networkDesc": "Connect with fellow alumni across industries",
+    "marketplaceTitle": "Marketplace",
+    "marketplaceDesc": "Buy, sell, and partner within your community",
+    "eventsTitle": "Events",
+    "eventsDesc": "Participate in exclusive events and workshops",
+    "learningTitle": "Resources",
+    "learningDesc": "Access guides, templates, and training materials"
+  },
+  "Professional": {
+    "network": {
+      "title": "Build Your Professional Network",
+      "desc": "Connect with verified alumni across diverse industries worldwide. Filter by sector, location, and skills to find the perfect connections for your career goals.",
+      "item1": "Advanced search filters",
+      "item2": "Direct messaging",
+      "item3": "Group discussions",
+      "item4": "Resource sharing"
+    },
+    "growth": {
+      "title": "Connect & Grow Together",
+      "desc": "Access exclusive masterclasses, structured courses, and mentorship programs. Upskill with content created by industry experts and fellow alumni.",
+      "item1": "Video masterclasses",
+      "item2": "1-on-1 mentorship",
+      "item3": "Interactive workshops",
+      "item4": "Certification programs"
+    },
+    "opportunities": {
+      "title": "Discover Opportunities",
+      "desc": "Explore the community marketplace to buy, sell, and partner. Showcase your products and services to a trusted community of professionals.",
+      "item1": "Product listing",
+      "item2": "Service marketplace",
+      "item3": "Partnership opportunities",
+      "item4": "Secure transactions"
+    }
+  },
+  "BuildTogether": {
+    "titleMain": "Building together,",
+    "titleStronger": "growing stronger",
+    "description": "Institutions, organizations and alumni communities each launch their own branded workspace on Unleashified — verified members, curated opportunities, and strategic partnerships.",
+    "stat1Text": "Verified Members",
+    "stat1Val": "100%",
+    "stat2Text": "Access Control",
+    "stat2Val": "Invite-Only",
+    "stat3Text": "Opportunity Sharing",
+    "stat3Val": "Direct P2P",
+    "stat4Text": "Architecture",
+    "stat4Val": "Multi-Community",
+    "foundingTitle": "Founding Community Program",
+    "foundingDescription": "We are currently accepting a limited number of early communities onto the platform. Launch your branded alumni workspace, onboard your members, and help shape the future of Unleashified.",
+    "foundingCTA": "Apply for Early Access"
+  },
+  "JoinToday": {
+    "badgeText": "Join Today - It's Free",
+    "headlineMain": "Ready to unlock your ",
+    "headlineSub": "full potential?",
+    "description": "Join verified alumni communities that are networking, collaborating, and growing together on Unleashified.",
+    "getStarted": "Get Started Free",
+    "featureFree": "Trusted by professionals",
+    "featureIndustries": "Secure & Private",
+    "featureNetwork": "No credit card required"
+  },
+  "SupportCTA": {
+    "title": "Have Questions? We're Here to Help",
+    "description": "Whether you are a community administrator or a member, our team is here to assist you. Contact us directly at {email} or send us a message — we will respond promptly.",
+    "button": "Support"
+  },
+  "Footer": {
+    "brandName": "Unleashified",
+    "tagline": "Empowering graduates, entrepreneurs, and professionals through networking, mentorship, and opportunities — one platform for every alumni community.",
+    "disclaimer": "Unleashified is a multi-tenant alumni community platform. Each organization operates its own branded workspace and membership is managed by its administrators.",
+    "copyright": "© {year} Unleashified Alumni Platform. All rights reserved.",
+    "email": "hello@unleashified.io",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "marketplace": "Marketplace",
+      "mentorship": "Mentorship",
+      "learning": "Learning",
+      "pricing": "Pricing"
+    },
+    "company": {
+      "title": "Company",
+      "aboutUs": "About Us",
+      "careers": "Careers",
+      "blog": "Blog",
+      "pressKit": "Press Kit",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "cookiePolicy": "Cookie Policy",
+      "gdpr": "GDPR",
+      "accessibility": "Accessibility"
+    }
+  },
+  "Login": {
+    "title": "Sign in",
+    "subtitle": "Access your workspace with your provisioned credentials.",
+    "email": "Email address",
+    "emailPlaceholder": "you@organization.org",
+    "password": "Password",
+    "loginButton": "Sign in",
+    "forgotPassword": "Forgot password?",
+    "inviteOnly": "This platform is invite-only. Contact your administrator if you need access."
+  },
+  "Nav": {
+    "sections": {
+      "community": "Community",
+      "support": "Support",
+      "administration": "Administration",
+      "platform": "Platform"
+    },
+    "items": {
+      "dashboard": "Dashboard",
+      "newsfeed": "Newsfeed",
+      "network": "Network",
+      "messaging": "Messaging",
+      "marketplace": "Marketplace",
+      "events": "Events",
+      "groups": "Groups",
+      "dealRoom": "Deal Room",
+      "resources": "Resources",
+      "helpSupport": "Help & Support",
+      "settings": "Settings",
+      "overview": "Overview",
+      "members": "Members",
+      "contentEngagement": "Content & Engagement",
+      "dealRooms": "Deal Rooms",
+      "supportInbox": "Support Inbox",
+      "orgSettings": "Organization Settings",
+      "organizations": "Organizations",
+      "analytics": "Analytics",
+      "securityLogs": "Security Logs",
+      "platformSettings": "Platform Settings"
+    },
+    "mobile": {
+      "home": "Home",
+      "feed": "Feed",
+      "network": "Network",
+      "chats": "Chats",
+      "events": "Events",
+      "market": "Market",
+      "overview": "Overview",
+      "members": "Members",
+      "content": "Content",
+      "support": "Support",
+      "org": "Org",
+      "orgs": "Orgs",
+      "analytics": "Analytics",
+      "security": "Security",
+      "settings": "Settings"
+    },
+    "sidebar": {
+      "platformBrand": "Unleashified Platform",
+      "superAdminConsole": "Super Admin Console",
+      "communityFallback": "Community",
+      "signOut": "Sign out"
+    },
+    "menu": {
+      "viewProfile": "View profile",
+      "signedOut": "Signed out."
+    },
+    "roles": {
+      "superadmin": "Super Admin",
+      "admin": "Administrator",
+      "member": "Member"
+    }
+  }
+}

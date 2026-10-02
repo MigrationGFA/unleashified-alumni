@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "business mentorship meeting between professionals in a modern office"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "business mentorship meeting between professionals in a modern office",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5fafdd012e73.png",
+      "caption": "",
+      "source": "Refactor Talent",
+      "original_width": "1606px",
+      "original_height": "1056px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ebdcd663275d.jpeg",
+      "caption": "",
+      "source": "Extern",
+      "original_width": "1376px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2e0f7c64626a.jpg",
+      "caption": "",
+      "source": "Mobile Mentor",
+      "original_width": "2560px",
+      "original_height": "1384px"
+    }
+  ]
+}

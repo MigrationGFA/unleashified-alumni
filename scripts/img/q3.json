@@ -1,0 +1,33 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "corporate workshop training session with audience and presentation"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "corporate workshop training session with audience and presentation",
+  "count": 3,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6208dd028eef.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "775px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77b50ea2013a.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1009px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f0ab13378081.jpg",
+      "caption": "",
+      "source": "Inc. Magazine",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    }
+  ]
+}

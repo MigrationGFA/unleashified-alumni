@@ -1,0 +1,40 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "modern university campus building exterior"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "modern university campus building exterior",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a4150ccddc5e.jpg",
+      "caption": "",
+      "source": "LMN Architects",
+      "original_width": "2000px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1b607a12bd37.jpg",
+      "caption": "",
+      "source": "Architect Magazine",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6742b58f691e.jpg",
+      "caption": "",
+      "source": "Skanska",
+      "original_width": "1920px",
+      "original_height": "1818px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3fc1470f11c9.jpg",
+      "caption": "",
+      "source": "Princeton University",
+      "original_width": "1440px",
+      "original_height": "960px"
+    }
+  ]
+}
